@@ -6,7 +6,7 @@ A library for automatically handling both file storage easily and mysql wrapper 
         - tmysql(https://github.com/SuperiorServers/gm_tmysql4)
         - mysqloo(https://github.com/FredyH/MySQLOO)
     
-    -File Storage:
+    - File Storage:
         - binarytable(https://github.com/darkjacky/gm_binarytable)
         
         
